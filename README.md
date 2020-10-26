@@ -7,9 +7,11 @@ This repository is a collection of configurations created by the System Crafters
 I've developed a whole system configuration based around Emacs, EXWM, and Guix which gets shared between multiple machines.  My configuration files are mostly stored in Org Mode files and exported with Org Babel.
 
 - **Config Repo:** https://github.com/daviwil/dotfiles
-- **Software:** Emacs, GNU Guix, GNU Stow
+- **Operating System:** GNU Guix
+- **Software:** Emacs, Guix, Vimb, Polybar, Dunst, mpv, GNU Stow
 
 ## Name ([@username](https://github.com/username)) (Copy this template for your entry!)
 
-- **Config Repo:**
-- **Software:**
+- **Config Repo:** [A link to your configuration repo wherever it is hosted]
+- **Operating System:** [This can just be Windows, macOS, or Linux, or it could be your specific Linux distribution]
+- **Software:** [The list of software you use in your configuration]
