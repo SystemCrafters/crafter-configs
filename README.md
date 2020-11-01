@@ -13,6 +13,15 @@ I've developed a whole system configuration based around Emacs, EXWM, and Guix w
 - **Software:** Emacs, Guix, Vimb, Polybar, Dunst, mpv, GNU Stow
 - **Keyboard:** Since I'm a ThinkPad fan, I use the [ThinkPad Compact USB Keyboard](https://www.amazon.com/Lenovo-ThinkPad-Compact-Keyboard-TrackPoint/dp/B00F3U4TQS/ref=sr_1_3?crid=1P0R7L5JJA8CG&dchild=1&keywords=thinkpad+usb+keyboard&qid=1604238423&sprefix=thinkpad+usb+keyboard%2Caps%2C-1&sr=8-3)
 
+### Jens Schneider ([@jensac](https://github.com/JensAc))
+
+My system configuration is based on Arch Linux, i3wm and rofi. The important config files are simply stored as plain text with some comments here and there. Feel free to copy, if you find something useful. 
+
+- **Config Repo:** https://github.com/JensAc/dotfiles
+- **Operating System:** Arch Linux
+- **Software:** i3wm, i3status, Rofi, Emacs, Alacritty, Fish
+- **Keyboard:** [Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com/). A masterpiece of hard- and software. 
+
 ## How to Add Your Config
 
 You can easily **edit this page by [clicking here](https://github.com/SystemCrafters/crafter-configs/edit/master/README.md)** without the need to clone the repository or create a fork.  Feel free to fork and clone if you prefer, though :)
