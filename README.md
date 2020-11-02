@@ -22,6 +22,16 @@ My system configuration is based on Arch Linux, i3wm and rofi. The important con
 - **Software:** i3wm, i3status, Rofi, Emacs, Alacritty, Fish
 - **Keyboard:** [Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com/). A masterpiece of hard- and software. 
 
+
+### Kavin ([@kavin25](https://github.com/kavin25))
+
+My setup is a lot similar to the emacs from scratch playlist. I have added some stuff for my own comfort. It's all made in Org Mode and exported with Org Babel.
+
+- **Config Repo:** https://github.com/kavin25/emacs_config
+- **Operating System:** MacOS
+- **Software:** Emacs
+- **Keyboard:** Macbook Air 2017 default keyboard.
+
 ## How to Add Your Config
 
 You can easily **edit this page by [clicking here](https://github.com/SystemCrafters/crafter-configs/edit/master/README.md)** without the need to clone the repository or create a fork.  Feel free to fork and clone if you prefer, though :)
