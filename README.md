@@ -22,7 +22,6 @@ My system configuration is based on Arch Linux, i3wm and rofi. The important con
 - **Software:** i3wm, i3status, Rofi, Emacs, Alacritty, Fish
 - **Keyboard:** [Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com/). A masterpiece of hard- and software. 
 
-
 ### Erik Lundstedt ([@erik.lundstedt](https://gitlab.com/Erik.Lundstedt))
 
 I recreated window swalowing in awesomeWM for kitty and vivaldi webbrowser (wip)
@@ -31,7 +30,16 @@ awesomeWM needs you to move/symlink one of the files in awesome/settings/screens
 - **Config Repo:** https://gitlab.com/Erik.Lundstedt/dotconfigfiles 
 - **Operating System:** debian bullseye/sid
 - **Software:** doom-emacs, awesomeWM, kitty, zsh with oh-my and powerline, and some others i dont use a lot
-- **Keyboard:** swedish keyboard layout but I am not using the extra keys, I use alt-tab for some in-program things that might conflict when using a desktop enviroment as I bound super-tab to switch-window
+- **Keyboard:** swedish keyboard layout but I am not using the extra keys, I use alt-tab for some in-program things that might conflict when using a desktop enviroment as I bound super-tab to switch-window<<<<<<< patch-1
+
+### Kavin ([@kavin25](https://github.com/kavin25))
+
+My setup is a lot similar to the emacs from scratch playlist. I have added some stuff for my own comfort. It's all made in Org Mode and exported with Org Babel.
+
+- **Config Repo:** https://github.com/kavin25/emacs_config
+- **Operating System:** MacOS
+- **Software:** Emacs
+- **Keyboard:** Macbook Air 2017 default keyboard.
 
 ## How to Add Your Config
 
