@@ -22,6 +22,17 @@ My system configuration is based on Arch Linux, i3wm and rofi. The important con
 - **Software:** i3wm, i3status, Rofi, Emacs, Alacritty, Fish
 - **Keyboard:** [Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com/). A masterpiece of hard- and software. 
 
+
+### Erik Lundstedt ([@erik.lundstedt](https://gitlab.com/Erik.Lundstedt))
+
+I recreated window swalowing in awesomeWM for kitty and vivaldi webbrowser (wip)
+awesomeWM needs you to move/symlink one of the files in awesome/settings/screens.lua* to awesome/custom/screens.lua as i use diferent settings on different devices with different screens(laptop is single screen and thinkpad has a bigger top-bar as it's a touch-screen)
+
+- **Config Repo:** https://gitlab.com/Erik.Lundstedt/dotconfigfiles 
+- **Operating System:** debian bullseye/sid
+- **Software:** doom-emacs, awesomeWM, kitty, zsh with oh-my and powerline, and some others i dont use a lot
+- **Keyboard:** swedish keyboard layout but I am not using the extra keys, I use alt-tab for some in-program things that might conflict when using a desktop enviroment as I bound super-tab to switch-window
+
 ## How to Add Your Config
 
 You can easily **edit this page by [clicking here](https://github.com/SystemCrafters/crafter-configs/edit/master/README.md)** without the need to clone the repository or create a fork.  Feel free to fork and clone if you prefer, though :)
