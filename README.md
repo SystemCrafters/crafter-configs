@@ -41,6 +41,16 @@ My setup is a lot similar to the emacs from scratch playlist. I have added some 
 - **Software:** Emacs
 - **Keyboard:** Macbook Air 2017 default keyboard.
 
+### Ethan Carter Edwards ([[@ethancedwards8](https://github.com/ethancedwards8))
+
+I've been using Emacs for a few months and I'm working on moving to full config to org and exporting using tangle. I use Arch on my desktop and laptop but I'm learning Nix, and NixOS.
+
+- **Emacs repo:** https://gitlab.com/ethancedwards/emacs-config
+- **Dotfiles repo:** https://gitlab.com/ethancedwards8/dotfiles
+- **Operating System:** Arch Linux, and I'm learning Nix/NixOS.
+- **Software:** Emacs, bspwm on my desktop, SwayWM on my laptop, dmenu, bash, git bare repo for my dotfiles.
+- **Keyboard:** The keyboard on my laptop and a Corsair K55 keyboard on my desktop. Hoping to build an Ergodox split keyboard soon.
+
 ## How to Add Your Config
 
 You can easily **edit this page by [clicking here](https://github.com/SystemCrafters/crafter-configs/edit/master/README.md)** without the need to clone the repository or create a fork.  Feel free to fork and clone if you prefer, though :)
