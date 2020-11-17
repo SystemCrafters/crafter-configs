@@ -51,6 +51,15 @@ I've been using Emacs for a few months and I'm working on moving to full config 
 - **Software:** Emacs, bspwm on my desktop, SwayWM on my laptop, dmenu, bash, git bare repo for my dotfiles.
 - **Keyboard:** The keyboard on my laptop and a Corsair K55 keyboard on my desktop. Hoping to build an Ergodox split keyboard soon.
 
+### John Gormley ([@frogduckhybrid](https://github.com/frogduckhybrid))
+
+A lot like emacs from scratch but working on making it more personal.
+
+- **Config Repos:** https://github.com/frogduckhybrid/frogmacs
+- **Operating System:** Arch Linux
+- **Software:** Emacs (EXWM)
+- **Keyboard:** Fnatic Gear Rush
+
 ## How to Add Your Config
 
 You can easily **edit this page by [clicking here](https://github.com/SystemCrafters/crafter-configs/edit/master/README.md)** without the need to clone the repository or create a fork.  Feel free to fork and clone if you prefer, though :)
