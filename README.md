@@ -60,6 +60,17 @@ A lot like emacs from scratch but working on making it more personal.
 - **Software:** Emacs (EXWM)
 - **Keyboard:** Fnatic Gear Rush
 
+### Name ([@glencjones](https://github.com/glencjones))
+
+Emacs DOOM with EXWM as the widow manager, Mate or shh. So this is great as I get to have the same
+development environment remotely with out the need to carry a heavy notebook. I typically use my phone and
+a ssh running in samsung-dex (on the phone), so a capable dev environment via ssh is important.
+
+- **Config Repo:** https://github.com/glencjones/doom-exwm
+- **Operating System:** Gentoo, one system to rule them all.
+- **Software:** Gentoo(Linux), Windows, Doom, Emacs, EXWM or Mate, C++, Java, Scala, C#.
+- **Keyboard:** Old IBM Buckling Spring :) keeps the family awake at night!
+
 ## How to Add Your Config
 
 You can easily **edit this page by [clicking here](https://github.com/SystemCrafters/crafter-configs/edit/master/README.md)** without the need to clone the repository or create a fork.  Feel free to fork and clone if you prefer, though :)
