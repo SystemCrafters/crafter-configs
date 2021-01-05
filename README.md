@@ -60,7 +60,7 @@ A lot like emacs from scratch but working on making it more personal.
 - **Software:** Emacs (EXWM)
 - **Keyboard:** Fnatic Gear Rush
 
-### Name ([@glencjones](https://github.com/glencjones))
+### Glen Jones ([@glencjones](https://github.com/glencjones))
 
 Emacs DOOM with EXWM as the widow manager, Mate or shh. So this is great as I get to have the same
 development environment remotely with out the need to carry a heavy notebook. I typically use my phone and
