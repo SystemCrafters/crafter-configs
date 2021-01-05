@@ -41,7 +41,7 @@ My setup is a lot similar to the emacs from scratch playlist. I have added some 
 - **Software:** Emacs
 - **Keyboard:** Macbook Air 2017 default keyboard.
 
-### Ethan Carter Edwards ([[@ethancedwards8](https://github.com/ethancedwards8))
+### Ethan Carter Edwards ([@ethancedwards8](https://github.com/ethancedwards8))
 
 I've been using Emacs for a few months and I'm working on moving to full config to org and exporting using tangle. I use Arch on my desktop and laptop but I'm learning Nix, and NixOS.
 
@@ -59,6 +59,17 @@ A lot like emacs from scratch but working on making it more personal.
 - **Operating System:** Arch Linux
 - **Software:** Emacs (EXWM)
 - **Keyboard:** Fnatic Gear Rush
+
+### Glen Jones ([@glencjones](https://github.com/glencjones))
+
+Emacs DOOM with EXWM as the window manager, Mate or shh. So this is great as I get to have the same
+development environment remotely with out the need to carry a heavy notebook. I typically use my phone and
+a ssh running in samsung-dex (on the phone), so a capable dev environment via ssh is important.
+
+- **Config Repo:** https://github.com/glencjones/doom-exwm
+- **Operating System:** Gentoo, one system to rule them all.
+- **Software:** Gentoo(Linux), Windows, Doom, Emacs, EXWM or Mate, C++, Java, Scala, C#.
+- **Keyboard:** Old IBM Buckling Spring :) keeps the family awake at night!
 
 ## How to Add Your Config
 
