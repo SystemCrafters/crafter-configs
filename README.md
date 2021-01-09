@@ -71,6 +71,15 @@ a ssh running in samsung-dex (on the phone), so a capable dev environment via ss
 - **Software:** Gentoo(Linux), Windows, Doom, Emacs, EXWM or Mate, C++, Java, Scala, C#.
 - **Keyboard:** Old IBM Buckling Spring :) keeps the family awake at night!
 
+### Techmo ([@techmoerror220](https://github.com/techmoerror220)
+
+I'm not a programmer, so I unashamedly copy other people's code, often creating havoc and spending endless hours trying to fix it. Started out with Kieran Healy's [Emacs Started Kit](https://github.com/kjhealy/emacs-starter-kit) tweaked to make it work with Debian Testing and EXWM. I have a basic `init.el` file and the rest of the configuration files are stored in Org Mode files and exported with Org Babel.
+
+- **Config Repo:** https://github.com/techmoerror220/.emacs.d
+- **Operating System:** GNU Debian Testing
+- **Software:** Emacs, Polybar, Redshift
+- **Keyboard:** The small, programmable, mechanical and ortholinear [Atreus keyboard](https://atreus.technomancy.us/) by the great [Techomancy](https://technomancy.us/list) with noisy Matias switches and the Colemak layout.
+
 ## How to Add Your Config
 
 You can easily **edit this page by [clicking here](https://github.com/SystemCrafters/crafter-configs/edit/master/README.md)** without the need to clone the repository or create a fork.  Feel free to fork and clone if you prefer, though :)
