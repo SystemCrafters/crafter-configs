@@ -62,7 +62,7 @@ A lot like emacs from scratch but working on making it more personal.
 
 ### Glen Jones ([@glencjones](https://github.com/glencjones))
 
-Emacs DOOM with EXWM as the window manager, Mate or shh. So this is great as I get to have the same
+Emacs DOOM with EXWM as the window manager, Mate or ssh. So this is great as I get to have the same
 development environment remotely with out the need to carry a heavy notebook. I typically use my phone and
 a ssh running in samsung-dex (on the phone), so a capable dev environment via ssh is important.
 
