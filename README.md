@@ -56,13 +56,13 @@ I've been using Emacs for a few months and I'm working on moving to full config 
 A lot like emacs from scratch but working on making it more personal.
 
 - **Config Repos:** https://github.com/frogduckhybrid/frogmacs
-- **Operating System:** Arch Linux
-- **Software:** Emacs (EXWM)
+- **Operating System:** Pop OS
+- **Software:** Emacs
 - **Keyboard:** Fnatic Gear Rush
 
 ### Glen Jones ([@glencjones](https://github.com/glencjones))
 
-Emacs DOOM with EXWM as the window manager, Mate or shh. So this is great as I get to have the same
+Emacs DOOM with EXWM as the window manager, Mate or ssh. So this is great as I get to have the same
 development environment remotely with out the need to carry a heavy notebook. I typically use my phone and
 a ssh running in samsung-dex (on the phone), so a capable dev environment via ssh is important.
 
@@ -70,6 +70,15 @@ a ssh running in samsung-dex (on the phone), so a capable dev environment via ss
 - **Operating System:** Gentoo, one system to rule them all.
 - **Software:** Gentoo(Linux), Windows, Doom, Emacs, EXWM or Mate, C++, Java, Scala, C#.
 - **Keyboard:** Old IBM Buckling Spring :) keeps the family awake at night!
+
+### Techmo ([@techmoerror220](https://github.com/techmoerror220))
+
+I'm not a programmer, so I unashamedly copy other people's code, often creating havoc and spending endless hours trying to fix it. Started out with Kieran Healy's [Emacs Started Kit](https://github.com/kjhealy/emacs-starter-kit) tweaked to make it work with Debian Testing and EXWM. I have a basic `init.el` file and the rest of the configuration files are stored in Org Mode files and exported with Org Babel.
+
+- **Config Repo:** https://github.com/techmoerror220/.emacs.d
+- **Operating System:** GNU Debian Testing
+- **Software:** Emacs, Polybar, Redshift
+- **Keyboard:** The small, programmable, mechanical and ortholinear [Atreus keyboard](https://atreus.technomancy.us/) by the great [Technomancy](https://technomancy.us/list) with noisy Matias switches and the Colemak layout.
 
 ### Ilja Kocken ([@japhir](https://github.com/japhir))
 
