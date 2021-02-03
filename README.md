@@ -80,6 +80,15 @@ I'm not a programmer, so I unashamedly copy other people's code, often creating 
 - **Software:** Emacs, Polybar, Redshift
 - **Keyboard:** The small, programmable, mechanical and ortholinear [Atreus keyboard](https://atreus.technomancy.us/) by the great [Technomancy](https://technomancy.us/list) with noisy Matias switches and the Colemak layout.
 
+### Ilja Kocken ([@japhir](https://github.com/japhir))
+
+I've been building up my dotfiles since at least April 2015. It's a lot of copy-pasted stuff that I clean up thorgoughly every now and then when new understanding hits me. I'm mainly a scientist who does his data analysis in R using org-mode literate programming and ess.
+
+- **Config Repo:** https://github.com/japhir/ArchConfigs
+- **Operating System:** Arch Linux
+- **Software:** [emacs](https://www.gnu.org/software/emacs/), [evil](https://github.com/emacs-evil/evil), [org-mode](https://orgmode.org/), [evil-org-mode](https://github.com/Somelauw/evil-org-mode), [org-roam](https://www.orgroam.com/), [ess](https://ess.r-project.org/), [sway](https://swaywm.org/), [waybar](https://github.com/Alexays/Waybar/), [wofi](https://hg.sr.ht/~scoopta/wofi), [mako](https://github.com/emersion/mako), [zsh](https://grml.org/zsh/) , [fzf](https://github.com/junegunn/fzf), [alacritty](https://github.com/alacritty/alacritty), [firefox](https://firefox.org/) using [vim-vixen](https://github.com/ueokande/vim-vixen/releases/tag/0.30), [org-capture](https://github.com/sprig/org-capture-extension). 
+- **Keyboard:** Filco Majestouch 2 mechanical keyboard, US layout with caps remapped to ctrl and right alt as compose-key.
+
 ## How to Add Your Config
 
 You can easily **edit this page by [clicking here](https://github.com/SystemCrafters/crafter-configs/edit/master/README.md)** without the need to clone the repository or create a fork.  Feel free to fork and clone if you prefer, though :)
