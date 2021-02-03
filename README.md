@@ -56,8 +56,8 @@ I've been using Emacs for a few months and I'm working on moving to full config 
 A lot like emacs from scratch but working on making it more personal.
 
 - **Config Repos:** https://github.com/frogduckhybrid/frogmacs
-- **Operating System:** Arch Linux
-- **Software:** Emacs (EXWM)
+- **Operating System:** Pop OS
+- **Software:** Emacs
 - **Keyboard:** Fnatic Gear Rush
 
 ### Glen Jones ([@glencjones](https://github.com/glencjones))
