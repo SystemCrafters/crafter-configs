@@ -89,6 +89,15 @@ I've been building up my dotfiles since at least April 2015. It's a lot of copy-
 - **Software:** [emacs](https://www.gnu.org/software/emacs/), [evil](https://github.com/emacs-evil/evil), [org-mode](https://orgmode.org/), [evil-org-mode](https://github.com/Somelauw/evil-org-mode), [org-roam](https://www.orgroam.com/), [ess](https://ess.r-project.org/), [sway](https://swaywm.org/), [waybar](https://github.com/Alexays/Waybar/), [wofi](https://hg.sr.ht/~scoopta/wofi), [mako](https://github.com/emersion/mako), [zsh](https://grml.org/zsh/) , [fzf](https://github.com/junegunn/fzf), [alacritty](https://github.com/alacritty/alacritty), [firefox](https://firefox.org/) using [vim-vixen](https://github.com/ueokande/vim-vixen/releases/tag/0.30), [org-capture](https://github.com/sprig/org-capture-extension). 
 - **Keyboard:** Filco Majestouch 2 mechanical keyboard, US layout with caps remapped to ctrl and right alt as compose-key.
 
+### Chris Hayward ([@chayward1](https://github.com/chayward1))
+
+I'm a student who's been trying to configure my entire operating system programatically for the last year. After playing around with NixOS and Guix, I came to the conclusion that the distribution, and even the operating system you use is just a boot loader for Emacs. Based heavily on the System crafters tutorials, and takes some inspiration from Doom Emacs. So far it supports a VirtualBox VM, an installation on hardware (Acer Nitro AN515), and a fleet of Raspberry Pi's.
+
+- **Config Repo:** https://github.com/chayward1/dotfiles
+- **Operating System:** Agnostic
+- **Software:** babel, org-roam, org-roam-server, hugo, reveal.js
+- **Keyboard:** Raspberry Pi 400 Personal Computer with CAPS / CTRL swapped
+
 ## How to Add Your Config
 
 You can easily **edit this page by [clicking here](https://github.com/SystemCrafters/crafter-configs/edit/master/README.md)** without the need to clone the repository or create a fork.  Feel free to fork and clone if you prefer, though :)
