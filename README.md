@@ -98,6 +98,16 @@ I'm a student who's been trying to configure my entire operating system programa
 - **Software:** babel, org-roam, org-roam-server, hugo, reveal.js
 - **Keyboard:** Raspberry Pi 400 Personal Computer with CAPS / CTRL swapped
 
+### Pavel Korytov ([@SqrtMinusOne](https://github.com/SqrtMinusOne))
+
+My journey in Software Development had begun in 2016. There is some evidence that I was a normal person back then, but I'm not quite convinced. I started building my dotfiles a few years later and gradually switched to keyboard-driven applications, especially i3 & Emacs. My Emacs config is somewhat focused on web development, LaTeX & org mode (especially literate programming), but has all kinds of stuff from all kinds of sources and still just the beginning of my path here.
+
+- **Config Repo:** https://github.com/SqrtMinusOne/dotfiles
+- **Operating System:** Manjaro Linux
+- **Software:** Emacs, i3 + polybar, rofi, fish, tmux, notmuch, Firefox + Tridactyl, mpd + ncpmcpp, newsboat
+- **Keyboard:** Genius Scorpion K220, RU/US layout. I have to switch the layouts all the time, especially in LaTeX documents, because for some reason Bolsheviks abandoned the idea of replacing Russian Cyrillic letters with Latin ones
+
+
 ## How to Add Your Config
 
 You can easily **edit this page by [clicking here](https://github.com/SystemCrafters/crafter-configs/edit/master/README.md)** without the need to clone the repository or create a fork.  Feel free to fork and clone if you prefer, though :)
