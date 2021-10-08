@@ -107,6 +107,18 @@ My journey in Software Development had begun in 2016. There is some evidence tha
 - **Software:** Emacs, i3 + polybar, rofi, fish, tmux, notmuch, Firefox + Tridactyl, mpd + ncpmcpp, newsboat
 - **Keyboard:** Genius Scorpion K220, RU/US layout. I have to switch the layouts all the time, especially in LaTeX documents, because for some reason Bolsheviks abandoned the idea of replacing Russian Cyrillic letters with Latin ones
 
+### Dustin Lyons ([@dustinlyons](https://github.com/dustinlyons))
+
+Like many software engineers, I've had a few "lightbulb" moments during my career that changed my course forever. First, it was vim and the idea that editors could have modes beyond insert. Then it was functional programming, avoiding state-related bugs with less indirection. Roam kicked off a "forever change" in how I take and organize notes for faster lookup. If I think about it, I'm chasing these moments as they significantly propel my productivity or quality of work forward.
+
+[I left a job](https://www.slideshare.net/Lightbend/how-credit-karma-makes-realtime-decisions-for-60-million-users-with-akka-streams-and-actors) in the Bay Area and moved to a quieter part of the country with my family. As I was searching for a way to have proper vim bindings writing networked notes (i.e., Roam), I discovered org-roam, which eventually opened up the world of Emacs (thanks [David!](https://www.youtube.com/playlist?list=PLEoMzSkcN8oPH1au7H6B7bBJ4ZO7BXjSZ)) and Guix. HUGE lightbulb. We all know Emacs is life but have you tried Guix? The ability to reason about your OS using Scheme, with transactional rollbacks and virtualenv-all-the-things, gives you super powers.
+
+I'll be actively building out my guix-config over the next several months. Check out my repo below to follow along!
+
+- **Config Repo:** https://github.com/dustinlyons/guix-config, https://github.com/dustinlyons/dotfiles
+- **Operating System:** GNU Guix
+- **Software:** emacs, openbox, rofi, zsh, org-roam, brave, alacritty, polybar, picom, thunar, dunst
+- **Keyboard:** GMMK PRO with Gateron Ink Black v2's and EBPT White-on-Black keycaps
 
 ## How to Add Your Config
 
