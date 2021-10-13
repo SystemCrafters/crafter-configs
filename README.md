@@ -120,6 +120,33 @@ I'll be actively building out my guix-config over the next several months. Check
 - **Software:** emacs, openbox, rofi, zsh, org-roam, brave, alacritty, polybar, picom, thunar, dunst
 - **Keyboard:** GMMK PRO with Gateron Ink Black v2's and EBPT White-on-Black keycaps
 
+### Case Duckworth ([@duckwork](https://github.com/duckwork))
+
+I've been using Emacs now for … about `(now - covid_lockdown)`, and Linux since
+college, when I accidentally deleted my MBR on a dual-booting machine and
+thought I deleted the whole Windows partition.  I'm not a programmer, and
+barely even a script kiddie; I'm mostly a writer who's finally doing what he
+went to 6 years of school for.  I work for an online marketing firm currently,
+but I've also worked for the public library, universities, and even a printer.
+
+Uh, pretend I have said even more interesting things about myself here.  If you
+want to see more (and increasingly out of date) writings and thoughts by me,
+check out [my website](https://www.acdw.net).
+
+OH YEAH!  I'm **acdw** almost everywhere else.  I run
+[breadpunk.club](https://breadpunk.club), where I go by **breadw**.
+I *promise*, though, everywhere else is **acdw**
+
+oh except Reddit, I'm [u/a-c-d-w](https://old.reddit.com/u/a-c-d-w) there
+because I deleted my old account.
+
+- **Config Repo**: https://tildegit.org/acdw/emacs;
+https://github.com/duckwork/etc; various others
+- **Operating System**: Debian 11 / Windows 10
+- **Software**: emacs, … bash ?
+- **Keyboard**: laptop, finally got a mecha thingy, LG something
+- **Flour**: King Arthur or NOTHIN
+
 ## How to Add Your Config
 
 You can easily **edit this page by [clicking here](https://github.com/SystemCrafters/crafter-configs/edit/master/README.md)** without the need to clone the repository or create a fork.  Feel free to fork and clone if you prefer, though :)
