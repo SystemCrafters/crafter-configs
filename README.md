@@ -147,6 +147,23 @@ https://github.com/duckwork/etc; various others
 - **Keyboard**: laptop, finally got a mecha thingy, LG something
 - **Flour**: King Arthur or NOTHIN
 
+### Benoit Joly ([@benoitj](https://github.com/benoitj))
+
+My 2nd language was a programming language. I learned to code when I was 8, and never stopped. Been paid to code since the mid 90s, never. I maintain a [list of languages](https://github.com/benoitj/notebook/blob/ff3919f2f7fec4a0f48a681ec77850e4c778a401/20210715010552.org) I've used, learned or I'm currently learning. I've been crafting my systems before Windows existed, and now craft systems, software, electronics, houses, or anything I want to learn.
+
+Systems are tools, and should be customized to adapt to their users, not the other way around!
+
+- **Config Repo:** [github.com/benoitj/dotfiles](https://github.com/benoitj/dotfiles)
+- **Operating System:**
+  - **Desktop:** Arch, Guix and NixOS
+  - **Servers:** Debian, Ubuntu, FreeBSD
+  - **Gaming:** Windows
+  - **Phone:** Currently Android
+- **Software:** Emacs, dwm/st/rofi/dunst, bash, notmuch/mbsync, qutebrowser, pass, git, beets, irssi, ncspot, and a lot more
+- **Keyboard:**
+  - **Main keyboard:** Custom 60% kbd, NerD60 board, MX clear with custom springs, blank White and Blue keycaps, QMK firmware with dvorak / custom spaceFN nav layer
+  - **Under test:** DIY 50% Ortholinear, Preonic, Gatheron clear, QMK dvorak, custom spaceFN layer, with additional keys in TAP/HOLD configuration for the thumb keys
+
 ## How to Add Your Config
 
 You can easily **edit this page by [clicking here](https://github.com/SystemCrafters/crafter-configs/edit/master/README.md)** without the need to clone the repository or create a fork.  Feel free to fork and clone if you prefer, though :)
