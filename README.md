@@ -164,6 +164,21 @@ Systems are tools, and should be customized to adapt to their users, not the oth
   - **Main keyboard:** Custom 60% kbd, NerD60 board, MX clear with custom springs, blank White and Blue keycaps, QMK firmware with dvorak / custom spaceFN nav layer
   - **Under test:** DIY 50% Ortholinear, Preonic, Gatheron clear, QMK dvorak, custom spaceFN layer, with additional keys in TAP/HOLD configuration for the thumb keys
 
+### Nicolas Graves ([@nicolas-graves](https://github.com/nicolas-graves))
+
+Not a software engineer, still student.
+I'm very involved in environmental causes, and started to administer a server for my organization, and gradually fell in hacker's culture and the system's configuration rabbithole for the last two years.
+I crafted my config based on [[https://git.sr.ht/~abcdw/rde][Andrew Tropin's rde]] and [[https://git.sr.ht/~krevedkokun/dotfiles][krevedkokun's dotfiles]].
+
+- **Config Repo:** [github.com/nicolas-graves/dotfiles](https://github.com/nicolas-graves/dotfiles)
+- **Operating System:**
+  - **Desktop:** Guix (after using Ubuntu-based distributions and Arch)
+  - **Servers:** Debian, Ubuntu, Guix
+  - **Phone:** Currently Android
+- **Software:** Emacs, sway/alacritty/bemenu/mako, bash/zsh, mu4e/mbsync, chromium/nyxt, pass/rbw, git, and a lot more
+- **Keyboard:** nothing fancy, basic french AZERTY
+
+
 ## How to Add Your Config
 
 You can easily **edit this page by [clicking here](https://github.com/SystemCrafters/crafter-configs/edit/master/README.md)** without the need to clone the repository or create a fork.  Feel free to fork and clone if you prefer, though :)
