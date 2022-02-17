@@ -178,6 +178,20 @@ I crafted my config based on [[https://git.sr.ht/~abcdw/rde][Andrew Tropin's rde
 - **Software:** Emacs, sway/alacritty/bemenu/mako, bash/zsh, mu4e/mbsync, chromium/nyxt, pass/rbw, git, and a lot more
 - **Keyboard:** nothing fancy, basic french AZERTY
 
+### Fredrik Engstrand, Johan Engstrand ([@Frewacom](https://github.com/Frewacom), [@johanengstrand](https://github.com/johanengstrand))
+
+Two brothers on a quest to configure (almost) everything in Guile.
+We used Arch Linux for around two years before we switched to GNU Guix in the summer of 2021.
+Our Guix setup relies on [Andrew Tropin's rde](https://git.sr.ht/~abcdw/rde) and uses (almost exclusively) Wayland applications.
+We have created configuration files for each of our machines, as well as user-specific configuration files that extend our 'base' configuration.
+
+- **Config Repos:** [https://github.com/engstrand-config/guix-dotfiles](https://github.com/engstrand-config/guix-dotfiles).  Also, check out our [Github organization](https://github.com/engstrand-config).
+- **Operating System:** GNU Guix
+- **Software:** Emacs (evil mode), foot, bemenu, mako, Firefox with [Pywalfox](https://github.com/Frewacom/pywalfox), mpv, forks of [dwl](https://github.com/engstrand-config/dwl-guile) and [dtao](https://github.com/engstrand-config/dtao-guile) that are configured in Guile
+- **Keyboard:** Caps Lock rebound to Esc. Shift + Alt toggles between US and SE layouts. 
+  - Model (Fredrik): Leopold FC660C
+  - Model (Johan): GMMK Pro with Halo True switches and Drop/biip 2048 MT3 keycaps
+
 
 ## How to Add Your Config
 
